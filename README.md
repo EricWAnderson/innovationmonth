@@ -1,4 +1,4 @@
-# Student Innovation Week at the University of Minnesota in September 2013-2016
+# Student Innovation Week at the University of Minnesota in September 2016
 
 Launched at Twin Cities Startup Weekend 2016: https://studentinnovationweek.herokuapp.com/
 
